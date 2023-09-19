@@ -20,6 +20,7 @@ hbs.registerPartials(partialPath);
 
 //
 ///
+//
 
 //console.log(viewPath);
 /* 
